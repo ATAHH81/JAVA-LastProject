@@ -1,6 +1,6 @@
 # JAVA-LastProject
 
-Group members:/d
-Mohammad ata Pooramini  /d
-Amirali Hashemi /d
-Baktash Khams /d
+Group members:
+Mohammad ata Pooramini, 
+Amirali Hashemi, 
+Baktash Khams
